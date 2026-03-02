@@ -1,2 +1,2 @@
 # C-
-用于记录研究生复试机试的准备过程
+Record learning
